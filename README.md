@@ -44,4 +44,4 @@ Programming Languages I Have Used
 
 GitHub Stats
 ------------
-![mfrager's GitHub](https://github-readme-stats.vercel.app/api?username=mfrager&hide=stars,prs,issues,contribs)
+![![mfrager's GitHub](https://github-readme-stats.vercel.app/api?username=mfrager&hide=stars,prs,issues,contribs)](https://github.com/mfrager)
