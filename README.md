@@ -10,6 +10,7 @@ Education
 2000-2004
 **BA, Computer Science**; Miami University (Oxford, OH)
 
+![mfrager's GitHub](https://github-readme-stats.vercel.app/api?username=mfrager&hide=    commits,prs,issues,contribs)
 
 Technical Experience
 --------------------
