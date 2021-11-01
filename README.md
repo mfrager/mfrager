@@ -1,10 +1,7 @@
-![Twitter](https://shields.io/twitter/follow/mfrager?label=Follow)
-
-Mike Frager
+Mike Frager ![Twitter](https://shields.io/twitter/follow/mfrager?label=Follow)
 ===========
 
 mfrager@gmail.com
-![Twitter](https://shields.io/twitter/follow/mfrager?label=Follow)
 -------------------
 
 Education
