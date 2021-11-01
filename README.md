@@ -1,4 +1,4 @@
-Mike Frager ![Hello World!](https://img.shields.io/badge/-Hello%20World!-success) ![Twitter](https://shields.io/twitter/follow/mfrager?label=Follow)
+Mike Frager ![Hello World!](https://img.shields.io/badge/-Hello%20World!-success) <a href="https://twitter.com/mfrager">https://shields.io/twitter/follow/mfrager?label=Follow</a>
 ===========
 
 mfrager@gmail.com
