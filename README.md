@@ -3,7 +3,6 @@
 Mike Frager
 ===========
 
-Los Angeles, California
 mfrager@gmail.com
 ![Twitter](https://shields.io/twitter/follow/mfrager?label=Follow)
 -------------------
