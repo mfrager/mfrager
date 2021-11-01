@@ -10,7 +10,7 @@ Education
 2000-2004
 **BA, Computer Science**; Miami University (Oxford, OH)
 
-![mfrager's GitHub](https://github-readme-stats.vercel.app/api?username=mfrager&hide=stars,prs,issues,contribs)
+
 
 Technical Experience
 --------------------
@@ -41,3 +41,7 @@ Programming Languages I Have Used
 ---------------------------------
 
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
+
+GitHub Stats
+------------
+![mfrager's GitHub](https://github-readme-stats.vercel.app/api?username=mfrager&hide=stars,prs,issues,contribs)
