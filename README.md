@@ -28,10 +28,11 @@ Technical Experience
     * VoIP
 
 Programming Languages
-**Python** Snakey language
+---------------------
+   * **Python** - Snakey language
 
-**Rust** Rusty bucket
+   * **Rust** - Rusty bucket
 
-**Javascript/Typescript/ECMAScript** or whatever they call it...
+   * **Javascript/Typescript/ECMAScript** or whatever they call it...
 
-**SQL** Are you sure that's a programming langauge? _Yes._
+   * **SQL** - Are you sure that's a programming langauge? _Yes._
