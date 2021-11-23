@@ -9,7 +9,7 @@ Education
 
 2000 - 2004
 
-**Interdisciplinary Studies**; Miami University (Oxford, OH)
+**Systems Analysis & Interdisciplinary Studies**; Miami University (Oxford, OH)
 
 2004 - 2005
 
