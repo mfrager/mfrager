@@ -7,9 +7,7 @@ mfrager@gmail.com
 Education
 ---------
 
-2000-2004
-**BA, Computer Science**; Miami University (Oxford, OH)
-
+**Computer Science**; Miami University (Oxford, OH)
 
 
 Technical Experience
