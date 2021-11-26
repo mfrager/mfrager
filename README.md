@@ -13,7 +13,7 @@ Education
 
 2004 - 2005
 
-**Computer Science**; Franklin University (Columbus, OH)
+**B.A. Computer Science**; Franklin University (Columbus, OH)
 
 
 Technical Experience
