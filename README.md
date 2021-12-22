@@ -7,13 +7,9 @@ mfrager@gmail.com
 Education
 ---------
 
-2000 - 2004
-
 **Systems Analysis & Interdisciplinary Studies**; Miami University (Oxford, OH)
 
-2004 - 2005
-
-**B.A. Computer Science**; Franklin University (Columbus, OH)
+**Computer Science**; Franklin University (Columbus, OH)
 
 
 Technical Experience
