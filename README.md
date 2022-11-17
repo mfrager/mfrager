@@ -6,8 +6,8 @@ mfrager@gmail.com
 
 Education
 ---------
-
-B. A. Systems Analysis - 2004, Miami University
+Miami University, Oxford, Ohio: Systems Analysis, Interdiscliplinary Studies
+Franklin University, Columbus, Ohio: Computer Science
 
 Stuff I Use
 -----------
