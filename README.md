@@ -6,7 +6,7 @@ mfrager@gmail.com
 
 Education
 ---------
-- Miami University, Oxford, Ohio: Systems Analysis, Interdiscliplinary Studies
+- Miami University, Oxford, Ohio: Systems Analysis, Interdisciplinary Studies
 - Franklin University, Columbus, Ohio: Computer Science
 
 Stuff I Use
